@@ -1,0 +1,24 @@
+======== JI NP1 timestamp = 129=========
+NP1 had no class associated with it until the timestamp 129
+====================================
+======== JI NP2 timestamp = 129=========
+NP2 had no class associated with it until the timestamp 129
+====================================
+======== JI NP1 timestamp = 172=========
+C: 2 - a: 0 b: 21 c: 3 d: 19 score: 0.0
+C: 3 - a: 0 b: 6 c: 3 d: 34 score: 0.0
+NP1 had no class associated with it until the timestamp 172
+====================================
+======== JI NP2 timestamp = 172=========
+C: 2 - a: 13 b: 8 c: 5 d: 17 score: 0.5
+C: 3 - a: 3 b: 3 c: 15 d: 22 score: 0.14285715
+NP2 --> 2 - t: 172 - score: 0.5
+====================================
+======== JI NP1 timestamp = 215=========
+C: 2 - a: 2 b: 61 c: 3 d: 19 score: 0.030303031
+C: 3 - a: 0 b: 7 c: 5 d: 73 score: 0.0
+NP1 --> 2 - t: 215 - score: 0.03030303120613098
+====================================
+Number of examples sent to short-time-memory = 62
+Number of examples removed from short-time-memory = 0
+Number of NPs = 2

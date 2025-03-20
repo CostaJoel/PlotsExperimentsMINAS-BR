@@ -1,0 +1,14 @@
+Known Classes: 4
+Train Classes Distribution: [65, 65, 0, 65, 58, 0]
+Test Classes Distribution: [65, 65, 0, 65, 58, 0]
+Train label cardinality: 1.0497925
+Windows label cardinality: [1.3255814, 1.0697675, 1.0930233, 1.1162791, 1.0, 1.0, 1.0930233, 1.0930233, 1.1627907, 1.0465117, 1.0465117, 1.0232558, 1.0232558, 1.0, 1.0, 1.0232558, 1.0232558, 1.0232558, 1.1162791, 1.0697675, 1.0697675, 1.1627907, 1.1395348, 1.255814, 1.0, 1.0, 1.0697675, 1.0, 1.0, 1.0, 1.0, 1.0465117, 1.2790698, 1.0697675, 1.0465117, 1.0930233, 1.1627907, 1.0930233, 1.1162791, 1.255814, 1.1162791, 1.0930233, 1.0697675, 1.0697675, 1.0930233, 1.0930233, 1.0, 1.0697675, 1.0232558, 1.0232558]
+Number of examples: 2407
+Number of attributes: 294
+Classes for the training phase (offline): [0, 1, 3, 4]
+Quantidade de classes: 4
+Class: 0 size: 8 n:65
+Class: 1 size: 8 n:65
+Class: 3 size: 8 n:65
+Class: 4 size: 5 n:58
+Label Cardinality: 2.0

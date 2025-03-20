@@ -1,0 +1,32 @@
+Timestamp: 500 - removed micro-clusters: 0 - model's size [0]:7
+Timestamp: 500 - removed micro-clusters: 0 - model's size [1]:8
+Timestamp: 500 - removed micro-clusters: 0 - model's size [3]:6
+Timestamp: 500 - removed micro-clusters: 0 - model's size [4]:6
+Removed examples from short-time-memory: 175	 True labels: [1]
+Removed examples from short-time-memory: 194	 True labels: [1]
+Removed examples from short-time-memory: 217	 True labels: [1]
+Timestamp: 1000 - removed micro-clusters: 0 - model's size [0]:7
+Removed micro-clusters: 0 label: 1 category: normal
+Timestamp: 1000 - removed micro-clusters: 1 - model's size [1]:7
+Timestamp: 1000 - removed micro-clusters: 1 - model's size [3]:6
+Timestamp: 1000 - removed micro-clusters: 1 - model's size [4]:6
+Removed examples from short-time-memory: 979	 True labels: [1]
+Removed examples from short-time-memory: 981	 True labels: [1]
+Removed examples from short-time-memory: 987	 True labels: [1]
+Removed micro-clusters: 0 label: 0 category: normal
+Removed micro-clusters: 1 label: 0 category: normal
+Timestamp: 1500 - removed micro-clusters: 2 - model's size [0]:5
+Timestamp: 1500 - removed micro-clusters: 2 - model's size [1]:7
+Timestamp: 1500 - removed micro-clusters: 2 - model's size [3]:6
+Removed micro-clusters: 0 label: 4 category: normal
+Timestamp: 1500 - removed micro-clusters: 3 - model's size [4]:5
+Removed examples from short-time-memory: 1057	 True labels: [2]
+Removed examples from short-time-memory: 1110	 True labels: [2]
+Removed examples from short-time-memory: 1187	 True labels: [2]
+Removed examples from short-time-memory: 1262	 True labels: [1]
+Removed examples from short-time-memory: 1369	 True labels: [1]
+Removed examples from short-time-memory: 1468	 True labels: [2]
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [0]:5
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [1]:7
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [3]:6
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [4]:5

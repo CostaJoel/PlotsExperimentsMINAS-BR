@@ -176,6 +176,5 @@ cython_debug/
 
 /data_analysis/*.pdf
 /env
-/results_to_plot
 /parameters_sensitivity_completo
 *.pdf
