@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+Thinking extension: C 4 - 7 examplesThinking Extension: C 0 - 7 examples
+Thinking Extension: C 3 - 7 examples
+Thinking Extension: C 4 - 7 examples
+
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [0]:6
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [1]:5
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [3]:5
+Timestamp: 2000 - removed micro-clusters: 0 - model's size [4]:5
+

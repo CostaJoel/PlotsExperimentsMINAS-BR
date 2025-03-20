@@ -1,0 +1,1609 @@
+======== JI NP1 timestamp = 7200=========
+NP1 had no class associated with it until the timestamp 7200
+====================================
+======== JI NP1 timestamp = 9000=========
+NP1 had no class associated with it until the timestamp 9000
+====================================
+======== JI NP2 timestamp = 9000=========
+NP2 had no class associated with it until the timestamp 9000
+====================================
+======== JI NP1 timestamp = 10800=========
+NP1 had no class associated with it until the timestamp 10800
+====================================
+======== JI NP2 timestamp = 10800=========
+NP2 had no class associated with it until the timestamp 10800
+====================================
+======== JI NP1 timestamp = 12600=========
+NP1 had no class associated with it until the timestamp 12600
+====================================
+======== JI NP2 timestamp = 12600=========
+NP2 had no class associated with it until the timestamp 12600
+====================================
+======== JI NP3 timestamp = 12600=========
+NP3 had no class associated with it until the timestamp 12600
+====================================
+======== JI NP1 timestamp = 14400=========
+NP1 had no class associated with it until the timestamp 14400
+====================================
+======== JI NP2 timestamp = 14400=========
+NP2 had no class associated with it until the timestamp 14400
+====================================
+======== JI NP3 timestamp = 14400=========
+NP3 had no class associated with it until the timestamp 14400
+====================================
+======== JI NP1 timestamp = 16200=========
+NP1 had no class associated with it until the timestamp 16200
+====================================
+======== JI NP2 timestamp = 16200=========
+NP2 had no class associated with it until the timestamp 16200
+====================================
+======== JI NP3 timestamp = 16200=========
+NP3 had no class associated with it until the timestamp 16200
+====================================
+======== JI NP4 timestamp = 16200=========
+NP4 had no class associated with it until the timestamp 16200
+====================================
+======== JI NP1 timestamp = 18000=========
+NP1 had no class associated with it until the timestamp 18000
+====================================
+======== JI NP2 timestamp = 18000=========
+NP2 had no class associated with it until the timestamp 18000
+====================================
+======== JI NP3 timestamp = 18000=========
+NP3 had no class associated with it until the timestamp 18000
+====================================
+======== JI NP4 timestamp = 18000=========
+NP4 had no class associated with it until the timestamp 18000
+====================================
+======== JI NP5 timestamp = 18000=========
+NP5 had no class associated with it until the timestamp 18000
+====================================
+======== JI NP1 timestamp = 19800=========
+NP1 had no class associated with it until the timestamp 19800
+====================================
+======== JI NP2 timestamp = 19800=========
+NP2 had no class associated with it until the timestamp 19800
+====================================
+======== JI NP3 timestamp = 19800=========
+NP3 had no class associated with it until the timestamp 19800
+====================================
+======== JI NP4 timestamp = 19800=========
+NP4 had no class associated with it until the timestamp 19800
+====================================
+======== JI NP5 timestamp = 19800=========
+NP5 had no class associated with it until the timestamp 19800
+====================================
+======== JI NP1 timestamp = 21600=========
+NP1 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP2 timestamp = 21600=========
+NP2 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP3 timestamp = 21600=========
+NP3 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP4 timestamp = 21600=========
+NP4 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP5 timestamp = 21600=========
+NP5 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP6 timestamp = 21600=========
+NP6 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP7 timestamp = 21600=========
+NP7 had no class associated with it until the timestamp 21600
+====================================
+======== JI NP1 timestamp = 23400=========
+NP1 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP2 timestamp = 23400=========
+NP2 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP3 timestamp = 23400=========
+NP3 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP4 timestamp = 23400=========
+NP4 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP5 timestamp = 23400=========
+NP5 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP6 timestamp = 23400=========
+NP6 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP7 timestamp = 23400=========
+NP7 had no class associated with it until the timestamp 23400
+====================================
+======== JI NP1 timestamp = 25200=========
+NP1 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP2 timestamp = 25200=========
+NP2 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP3 timestamp = 25200=========
+NP3 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP4 timestamp = 25200=========
+NP4 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP5 timestamp = 25200=========
+NP5 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP6 timestamp = 25200=========
+NP6 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP7 timestamp = 25200=========
+NP7 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP8 timestamp = 25200=========
+NP8 had no class associated with it until the timestamp 25200
+====================================
+======== JI NP1 timestamp = 27000=========
+NP1 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP2 timestamp = 27000=========
+NP2 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP3 timestamp = 27000=========
+NP3 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP4 timestamp = 27000=========
+NP4 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP5 timestamp = 27000=========
+NP5 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP6 timestamp = 27000=========
+NP6 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP7 timestamp = 27000=========
+NP7 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP8 timestamp = 27000=========
+NP8 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP9 timestamp = 27000=========
+NP9 had no class associated with it until the timestamp 27000
+====================================
+======== JI NP1 timestamp = 28800=========
+NP1 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP2 timestamp = 28800=========
+NP2 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP3 timestamp = 28800=========
+NP3 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP4 timestamp = 28800=========
+NP4 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP5 timestamp = 28800=========
+NP5 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP6 timestamp = 28800=========
+NP6 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP7 timestamp = 28800=========
+NP7 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP8 timestamp = 28800=========
+NP8 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP9 timestamp = 28800=========
+NP9 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP10 timestamp = 28800=========
+NP10 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP11 timestamp = 28800=========
+NP11 had no class associated with it until the timestamp 28800
+====================================
+======== JI NP1 timestamp = 30600=========
+C: 3 - a: 10 b: 147 c: 20 d: 1582 score: 0.056497175
+NP1 --> 3 - t: 30600 - score: 0.05649717524647713
+====================================
+======== JI NP2 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 5 d: 1597 score: 0.0
+NP2 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP3 timestamp = 30600=========
+C: 3 - a: 5 b: 152 c: 10 d: 1592 score: 0.029940119
+NP3 --> 3 - t: 30600 - score: 0.02994011901319027
+====================================
+======== JI NP4 timestamp = 30600=========
+C: 3 - a: 1 b: 156 c: 1 d: 1601 score: 0.006329114
+NP4 --> 3 - t: 30600 - score: 0.006329114083200693
+====================================
+======== JI NP5 timestamp = 30600=========
+C: 3 - a: 16 b: 141 c: 38 d: 1564 score: 0.082051285
+NP5 --> 3 - t: 30600 - score: 0.08205128461122513
+====================================
+======== JI NP6 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 0 d: 1602 score: 0.0
+NP6 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP7 timestamp = 30600=========
+C: 3 - a: 1 b: 156 c: 7 d: 1595 score: 0.0060975607
+NP7 --> 3 - t: 30600 - score: 0.006097560748457909
+====================================
+======== JI NP8 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 10 d: 1592 score: 0.0
+NP8 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP9 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 2 d: 1600 score: 0.0
+NP9 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP10 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 0 d: 1602 score: 0.0
+NP10 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP11 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 5 d: 1597 score: 0.0
+NP11 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP12 timestamp = 30600=========
+C: 3 - a: 0 b: 157 c: 8 d: 1594 score: 0.0
+NP12 had no class associated with it until the timestamp 30600
+====================================
+======== JI NP13 timestamp = 30600=========
+C: 3 - a: 1 b: 156 c: 9 d: 1593 score: 0.006024096
+NP13 --> 3 - t: 30600 - score: 0.0060240961611270905
+====================================
+======== JI NP14 timestamp = 30600=========
+C: 3 - a: 43 b: 114 c: 0 d: 1602 score: 0.27388534
+NP14 --> 3 - t: 30600 - score: 0.2738853394985199
+====================================
+======== JI NP15 timestamp = 30600=========
+C: 3 - a: 14 b: 143 c: 0 d: 1602 score: 0.089171976
+NP15 --> 3 - t: 30600 - score: 0.08917197585105896
+====================================
+======== JI NP16 timestamp = 30600=========
+C: 3 - a: 19 b: 138 c: 0 d: 1602 score: 0.12101911
+NP16 --> 3 - t: 30600 - score: 0.12101911008358002
+====================================
+======== JI NP17 timestamp = 30600=========
+C: 3 - a: 19 b: 138 c: 0 d: 1602 score: 0.12101911
+NP17 --> 3 - t: 30600 - score: 0.12101911008358002
+====================================
+======== JI NP18 timestamp = 30600=========
+C: 3 - a: 14 b: 143 c: 0 d: 1602 score: 0.089171976
+NP18 --> 3 - t: 30600 - score: 0.08917197585105896
+====================================
+======== JI NP19 timestamp = 30600=========
+C: 3 - a: 38 b: 119 c: 2 d: 1600 score: 0.2389937
+NP19 --> 3 - t: 30600 - score: 0.23899370431900024
+====================================
+======== JI NP20 timestamp = 30600=========
+C: 3 - a: 8 b: 149 c: 0 d: 1602 score: 0.050955415
+NP20 --> 3 - t: 30600 - score: 0.05095541477203369
+====================================
+======== JI NP2 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 9 d: 2893 score: 0.0
+NP2 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP6 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 0 d: 2902 score: 0.0
+NP6 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP8 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 18 d: 2884 score: 0.0
+NP8 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP9 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 4 d: 2898 score: 0.0
+NP9 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP10 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 0 d: 2902 score: 0.0
+NP10 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP11 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 12 d: 2890 score: 0.0
+NP11 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP12 timestamp = 32400=========
+C: 3 - a: 0 b: 649 c: 17 d: 2885 score: 0.0
+NP12 had no class associated with it until the timestamp 32400
+====================================
+======== JI NP21 timestamp = 32400=========
+C: 3 - a: 35 b: 457 c: 0 d: 1300 score: 0.07113821
+NP21 --> 3 - t: 32400 - score: 0.07113821059465408
+====================================
+======== JI NP22 timestamp = 32400=========
+C: 3 - a: 14 b: 478 c: 0 d: 1300 score: 0.028455285
+NP22 --> 3 - t: 32400 - score: 0.028455285355448723
+====================================
+======== JI NP2 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 13 d: 4157 score: 0.0
+NP2 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP6 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 0 d: 4170 score: 0.0
+NP6 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP8 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 29 d: 4141 score: 0.0
+NP8 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP9 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 7 d: 4163 score: 0.0
+NP9 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP10 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 0 d: 4170 score: 0.0
+NP10 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP11 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 16 d: 4154 score: 0.0
+NP11 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP12 timestamp = 34200=========
+C: 3 - a: 0 b: 1177 c: 33 d: 4137 score: 0.0
+NP12 had no class associated with it until the timestamp 34200
+====================================
+======== JI NP2 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 17 d: 5455 score: 0.0
+NP2 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP6 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 0 d: 5472 score: 0.0
+NP6 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP8 timestamp = 36000=========
+C: 3 - a: 6 b: 1666 c: 37 d: 5435 score: 0.003510825
+NP8 --> 3 - t: 36000 - score: 0.003510825103148818
+====================================
+======== JI NP9 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 12 d: 5460 score: 0.0
+NP9 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP10 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 0 d: 5472 score: 0.0
+NP10 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP11 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 24 d: 5448 score: 0.0
+NP11 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP12 timestamp = 36000=========
+C: 3 - a: 0 b: 1672 c: 45 d: 5427 score: 0.0
+NP12 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP23 timestamp = 36000=========
+C: 3 - a: 0 b: 495 c: 14 d: 1288 score: 0.0
+NP23 had no class associated with it until the timestamp 36000
+====================================
+======== JI NP2 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 21 d: 6759 score: 0.0
+NP2 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP6 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 0 d: 6780 score: 0.0
+NP6 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP9 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 18 d: 6762 score: 0.0
+NP9 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP10 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 0 d: 6780 score: 0.0
+NP10 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP11 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 34 d: 6746 score: 0.0
+NP11 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP12 timestamp = 37800=========
+C: 3 - a: 0 b: 2157 c: 65 d: 6715 score: 0.0
+NP12 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP23 timestamp = 37800=========
+C: 3 - a: 0 b: 980 c: 29 d: 2581 score: 0.0
+NP23 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP24 timestamp = 37800=========
+C: 3 - a: 0 b: 485 c: 15 d: 1293 score: 0.0
+NP24 had no class associated with it until the timestamp 37800
+====================================
+======== JI NP2 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 27 d: 7989 score: 0.0
+NP2 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP6 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 0 d: 8016 score: 0.0
+NP6 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP9 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 22 d: 7994 score: 0.0
+NP9 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP10 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 0 d: 8016 score: 0.0
+NP10 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP11 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 43 d: 7973 score: 0.0
+NP11 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP12 timestamp = 39600=========
+C: 3 - a: 0 b: 2718 c: 84 d: 7932 score: 0.0
+NP12 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP23 timestamp = 39600=========
+C: 3 - a: 0 b: 1541 c: 51 d: 3795 score: 0.0
+NP23 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP24 timestamp = 39600=========
+C: 3 - a: 0 b: 1046 c: 33 d: 2511 score: 0.0
+NP24 had no class associated with it until the timestamp 39600
+====================================
+======== JI NP2 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 38 d: 9231 score: 0.0
+NP2 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP6 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 0 d: 9269 score: 0.0
+NP6 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP9 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 26 d: 9243 score: 0.0
+NP9 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP10 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 0 d: 9269 score: 0.0
+NP10 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP11 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 51 d: 9218 score: 0.0
+NP11 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP12 timestamp = 41400=========
+C: 3 - a: 0 b: 3261 c: 100 d: 9169 score: 0.0
+NP12 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP23 timestamp = 41400=========
+C: 3 - a: 0 b: 2084 c: 71 d: 5028 score: 0.0
+NP23 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP24 timestamp = 41400=========
+C: 3 - a: 0 b: 1589 c: 46 d: 3751 score: 0.0
+NP24 had no class associated with it until the timestamp 41400
+====================================
+======== JI NP25 timestamp = 41400=========
+C: 3 - a: 3 b: 540 c: 3 d: 1250 score: 0.0054945056
+NP25 --> 3 - t: 41400 - score: 0.005494505632668734
+====================================
+======== JI NP2 timestamp = 43200=========
+C: 3 - a: 2 b: 3852 c: 41 d: 10430 score: 5.134788E-4
+NP2 --> 3 - t: 43200 - score: 5.134788225404918E-4
+====================================
+======== JI NP6 timestamp = 43200=========
+C: 3 - a: 0 b: 3854 c: 0 d: 10471 score: 0.0
+NP6 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP9 timestamp = 43200=========
+C: 3 - a: 0 b: 3854 c: 27 d: 10444 score: 0.0
+NP9 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP10 timestamp = 43200=========
+C: 3 - a: 0 b: 3854 c: 0 d: 10471 score: 0.0
+NP10 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP11 timestamp = 43200=========
+C: 3 - a: 0 b: 3854 c: 60 d: 10411 score: 0.0
+NP11 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP12 timestamp = 43200=========
+C: 3 - a: 0 b: 3854 c: 124 d: 10347 score: 0.0
+NP12 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP23 timestamp = 43200=========
+C: 3 - a: 0 b: 2677 c: 96 d: 6205 score: 0.0
+NP23 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP24 timestamp = 43200=========
+C: 3 - a: 0 b: 2182 c: 54 d: 4945 score: 0.0
+NP24 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP26 timestamp = 43200=========
+C: 3 - a: 0 b: 593 c: 5 d: 1197 score: 0.0
+NP26 had no class associated with it until the timestamp 43200
+====================================
+======== JI NP6 timestamp = 45000=========
+C: 3 - a: 0 b: 4399 c: 0 d: 11723 score: 0.0
+NP6 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP9 timestamp = 45000=========
+C: 3 - a: 0 b: 4399 c: 29 d: 11694 score: 0.0
+NP9 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP10 timestamp = 45000=========
+C: 3 - a: 0 b: 4399 c: 0 d: 11723 score: 0.0
+NP10 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP11 timestamp = 45000=========
+C: 3 - a: 0 b: 4399 c: 66 d: 11657 score: 0.0
+NP11 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP12 timestamp = 45000=========
+C: 3 - a: 0 b: 4399 c: 144 d: 11579 score: 0.0
+NP12 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP23 timestamp = 45000=========
+C: 3 - a: 0 b: 3222 c: 118 d: 7435 score: 0.0
+NP23 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP24 timestamp = 45000=========
+C: 3 - a: 0 b: 2727 c: 63 d: 6188 score: 0.0
+NP24 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP26 timestamp = 45000=========
+C: 3 - a: 0 b: 1138 c: 35 d: 2419 score: 0.0
+NP26 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP27 timestamp = 45000=========
+C: 3 - a: 0 b: 545 c: 4 d: 1248 score: 0.0
+NP27 had no class associated with it until the timestamp 45000
+====================================
+======== JI NP6 timestamp = 46800=========
+C: 3 - a: 0 b: 4977 c: 0 d: 12937 score: 0.0
+NP6 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP9 timestamp = 46800=========
+C: 3 - a: 0 b: 4977 c: 31 d: 12906 score: 0.0
+NP9 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP10 timestamp = 46800=========
+C: 3 - a: 0 b: 4977 c: 0 d: 12937 score: 0.0
+NP10 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP11 timestamp = 46800=========
+C: 3 - a: 0 b: 4977 c: 82 d: 12855 score: 0.0
+NP11 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP12 timestamp = 46800=========
+C: 3 - a: 0 b: 4977 c: 167 d: 12770 score: 0.0
+NP12 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP23 timestamp = 46800=========
+C: 3 - a: 0 b: 3800 c: 146 d: 8621 score: 0.0
+NP23 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP24 timestamp = 46800=========
+C: 3 - a: 0 b: 3305 c: 75 d: 7390 score: 0.0
+NP24 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP26 timestamp = 46800=========
+C: 3 - a: 0 b: 1716 c: 81 d: 3587 score: 0.0
+NP26 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP27 timestamp = 46800=========
+C: 3 - a: 0 b: 1123 c: 5 d: 2461 score: 0.0
+NP27 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP28 timestamp = 46800=========
+C: 3 - a: 0 b: 578 c: 4 d: 1210 score: 0.0
+NP28 had no class associated with it until the timestamp 46800
+====================================
+======== JI NP6 timestamp = 48600=========
+C: 3 - a: 0 b: 5633 c: 0 d: 14076 score: 0.0
+NP6 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP9 timestamp = 48600=========
+C: 3 - a: 0 b: 5633 c: 38 d: 14038 score: 0.0
+NP9 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP10 timestamp = 48600=========
+C: 3 - a: 0 b: 5633 c: 0 d: 14076 score: 0.0
+NP10 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP11 timestamp = 48600=========
+C: 3 - a: 0 b: 5633 c: 93 d: 13983 score: 0.0
+NP11 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP12 timestamp = 48600=========
+C: 3 - a: 0 b: 5633 c: 185 d: 13891 score: 0.0
+NP12 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP23 timestamp = 48600=========
+C: 3 - a: 0 b: 4456 c: 173 d: 9733 score: 0.0
+NP23 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP24 timestamp = 48600=========
+C: 3 - a: 0 b: 3961 c: 93 d: 8511 score: 0.0
+NP24 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP26 timestamp = 48600=========
+C: 3 - a: 0 b: 2372 c: 121 d: 4686 score: 0.0
+NP26 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP27 timestamp = 48600=========
+C: 3 - a: 0 b: 1779 c: 7 d: 3598 score: 0.0
+NP27 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP28 timestamp = 48600=========
+C: 3 - a: 0 b: 1234 c: 4 d: 2349 score: 0.0
+NP28 had no class associated with it until the timestamp 48600
+====================================
+======== JI NP6 timestamp = 50400=========
+C: 3 - a: 0 b: 6327 c: 0 d: 15177 score: 0.0
+NP6 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP9 timestamp = 50400=========
+C: 3 - a: 0 b: 6327 c: 42 d: 15135 score: 0.0
+NP9 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP10 timestamp = 50400=========
+C: 3 - a: 0 b: 6327 c: 0 d: 15177 score: 0.0
+NP10 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP11 timestamp = 50400=========
+C: 3 - a: 0 b: 6327 c: 102 d: 15075 score: 0.0
+NP11 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP12 timestamp = 50400=========
+C: 3 - a: 0 b: 6327 c: 212 d: 14965 score: 0.0
+NP12 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP23 timestamp = 50400=========
+C: 3 - a: 0 b: 5150 c: 205 d: 10802 score: 0.0
+NP23 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP24 timestamp = 50400=========
+C: 3 - a: 0 b: 4655 c: 107 d: 9598 score: 0.0
+NP24 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP26 timestamp = 50400=========
+C: 3 - a: 0 b: 3066 c: 180 d: 5728 score: 0.0
+NP26 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP27 timestamp = 50400=========
+C: 3 - a: 0 b: 2473 c: 10 d: 4696 score: 0.0
+NP27 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP28 timestamp = 50400=========
+C: 3 - a: 0 b: 1928 c: 9 d: 3445 score: 0.0
+NP28 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP29 timestamp = 50400=========
+C: 3 - a: 0 b: 694 c: 61 d: 1040 score: 0.0
+NP29 had no class associated with it until the timestamp 50400
+====================================
+======== JI NP6 timestamp = 52200=========
+C: 3 - a: 0 b: 7058 c: 0 d: 16241 score: 0.0
+NP6 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP9 timestamp = 52200=========
+C: 3 - a: 0 b: 7058 c: 44 d: 16197 score: 0.0
+NP9 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP10 timestamp = 52200=========
+C: 3 - a: 0 b: 7058 c: 0 d: 16241 score: 0.0
+NP10 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP11 timestamp = 52200=========
+C: 3 - a: 0 b: 7058 c: 117 d: 16124 score: 0.0
+NP11 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP12 timestamp = 52200=========
+C: 3 - a: 0 b: 7058 c: 237 d: 16004 score: 0.0
+NP12 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP23 timestamp = 52200=========
+C: 3 - a: 0 b: 5881 c: 243 d: 11828 score: 0.0
+NP23 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP24 timestamp = 52200=========
+C: 3 - a: 0 b: 5386 c: 122 d: 10647 score: 0.0
+NP24 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP26 timestamp = 52200=========
+C: 3 - a: 0 b: 3797 c: 232 d: 6740 score: 0.0
+NP26 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP27 timestamp = 52200=========
+C: 3 - a: 0 b: 3204 c: 14 d: 5756 score: 0.0
+NP27 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP28 timestamp = 52200=========
+C: 3 - a: 0 b: 2659 c: 12 d: 4506 score: 0.0
+NP28 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP29 timestamp = 52200=========
+C: 3 - a: 0 b: 1425 c: 137 d: 2028 score: 0.0
+NP29 had no class associated with it until the timestamp 52200
+====================================
+======== JI NP30 timestamp = 52200=========
+C: 3 - a: 4 b: 727 c: 4 d: 1060 score: 0.005442177
+NP30 --> 3 - t: 52200 - score: 0.005442176945507526
+====================================
+======== JI NP6 timestamp = 54000=========
+C: 3 - a: 0 b: 7756 c: 0 d: 17340 score: 0.0
+NP6 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP9 timestamp = 54000=========
+C: 3 - a: 0 b: 7756 c: 49 d: 17291 score: 0.0
+NP9 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP10 timestamp = 54000=========
+C: 3 - a: 0 b: 7756 c: 0 d: 17340 score: 0.0
+NP10 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP11 timestamp = 54000=========
+C: 3 - a: 0 b: 7756 c: 128 d: 17212 score: 0.0
+NP11 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP12 timestamp = 54000=========
+C: 3 - a: 0 b: 7756 c: 259 d: 17081 score: 0.0
+NP12 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP23 timestamp = 54000=========
+C: 3 - a: 0 b: 6579 c: 275 d: 12895 score: 0.0
+NP23 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP24 timestamp = 54000=========
+C: 3 - a: 0 b: 6084 c: 138 d: 11730 score: 0.0
+NP24 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP26 timestamp = 54000=========
+C: 3 - a: 0 b: 4495 c: 294 d: 7777 score: 0.0
+NP26 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP27 timestamp = 54000=========
+C: 3 - a: 1 b: 3901 c: 18 d: 6851 score: 2.5510203E-4
+NP27 --> 3 - t: 54000 - score: 2.5510202976875007E-4
+====================================
+======== JI NP28 timestamp = 54000=========
+C: 3 - a: 0 b: 3357 c: 14 d: 5603 score: 0.0
+NP28 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP29 timestamp = 54000=========
+C: 3 - a: 0 b: 2123 c: 211 d: 3053 score: 0.0
+NP29 had no class associated with it until the timestamp 54000
+====================================
+======== JI NP6 timestamp = 55800=========
+C: 3 - a: 0 b: 8515 c: 0 d: 18377 score: 0.0
+NP6 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP9 timestamp = 55800=========
+C: 3 - a: 0 b: 8515 c: 51 d: 18326 score: 0.0
+NP9 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP10 timestamp = 55800=========
+C: 3 - a: 0 b: 8515 c: 0 d: 18377 score: 0.0
+NP10 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP11 timestamp = 55800=========
+C: 3 - a: 0 b: 8515 c: 142 d: 18235 score: 0.0
+NP11 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP12 timestamp = 55800=========
+C: 3 - a: 0 b: 8515 c: 285 d: 18092 score: 0.0
+NP12 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP23 timestamp = 55800=========
+C: 3 - a: 0 b: 7338 c: 319 d: 13888 score: 0.0
+NP23 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP24 timestamp = 55800=========
+C: 3 - a: 0 b: 6843 c: 152 d: 12753 score: 0.0
+NP24 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP26 timestamp = 55800=========
+C: 3 - a: 0 b: 5254 c: 362 d: 8746 score: 0.0
+NP26 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP28 timestamp = 55800=========
+C: 3 - a: 0 b: 4116 c: 16 d: 6638 score: 0.0
+NP28 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP29 timestamp = 55800=========
+C: 3 - a: 0 b: 2882 c: 290 d: 4011 score: 0.0
+NP29 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP31 timestamp = 55800=========
+C: 3 - a: 0 b: 759 c: 7 d: 1030 score: 0.0
+NP31 had no class associated with it until the timestamp 55800
+====================================
+======== JI NP6 timestamp = 57600=========
+C: 3 - a: 0 b: 9299 c: 0 d: 19387 score: 0.0
+NP6 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP9 timestamp = 57600=========
+C: 3 - a: 0 b: 9299 c: 54 d: 19333 score: 0.0
+NP9 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP10 timestamp = 57600=========
+C: 3 - a: 0 b: 9299 c: 0 d: 19387 score: 0.0
+NP10 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP11 timestamp = 57600=========
+C: 3 - a: 0 b: 9299 c: 156 d: 19231 score: 0.0
+NP11 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP12 timestamp = 57600=========
+C: 3 - a: 0 b: 9299 c: 318 d: 19069 score: 0.0
+NP12 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP23 timestamp = 57600=========
+C: 3 - a: 0 b: 8122 c: 353 d: 14864 score: 0.0
+NP23 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP24 timestamp = 57600=========
+C: 3 - a: 0 b: 7627 c: 162 d: 13753 score: 0.0
+NP24 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP26 timestamp = 57600=========
+C: 3 - a: 0 b: 6038 c: 413 d: 9705 score: 0.0
+NP26 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP28 timestamp = 57600=========
+C: 3 - a: 0 b: 4900 c: 17 d: 7647 score: 0.0
+NP28 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP29 timestamp = 57600=========
+C: 3 - a: 0 b: 3666 c: 376 d: 4935 score: 0.0
+NP29 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP31 timestamp = 57600=========
+C: 3 - a: 0 b: 1543 c: 10 d: 2037 score: 0.0
+NP31 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP32 timestamp = 57600=========
+C: 3 - a: 0 b: 784 c: 6 d: 1004 score: 0.0
+NP32 had no class associated with it until the timestamp 57600
+====================================
+======== JI NP6 timestamp = 59400=========
+C: 3 - a: 0 b: 10099 c: 0 d: 20384 score: 0.0
+NP6 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP9 timestamp = 59400=========
+C: 3 - a: 0 b: 10099 c: 57 d: 20327 score: 0.0
+NP9 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP10 timestamp = 59400=========
+C: 3 - a: 0 b: 10099 c: 0 d: 20384 score: 0.0
+NP10 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP11 timestamp = 59400=========
+C: 3 - a: 0 b: 10099 c: 171 d: 20213 score: 0.0
+NP11 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP12 timestamp = 59400=========
+C: 3 - a: 0 b: 10099 c: 350 d: 20034 score: 0.0
+NP12 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP23 timestamp = 59400=========
+C: 3 - a: 0 b: 8922 c: 398 d: 15816 score: 0.0
+NP23 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP24 timestamp = 59400=========
+C: 3 - a: 0 b: 8427 c: 180 d: 14732 score: 0.0
+NP24 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP26 timestamp = 59400=========
+C: 3 - a: 0 b: 6838 c: 497 d: 10618 score: 0.0
+NP26 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP28 timestamp = 59400=========
+C: 3 - a: 0 b: 5700 c: 20 d: 8641 score: 0.0
+NP28 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP29 timestamp = 59400=========
+C: 3 - a: 0 b: 4466 c: 468 d: 5840 score: 0.0
+NP29 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP31 timestamp = 59400=========
+C: 3 - a: 0 b: 2343 c: 14 d: 3030 score: 0.0
+NP31 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP32 timestamp = 59400=========
+C: 3 - a: 0 b: 1584 c: 11 d: 1996 score: 0.0
+NP32 had no class associated with it until the timestamp 59400
+====================================
+======== JI NP33 timestamp = 59400=========
+C: 3 - a: 29 b: 771 c: 0 d: 997 score: 0.03625
+NP33 --> 3 - t: 59400 - score: 0.036249998956918716
+====================================
+======== JI NP6 timestamp = 61200=========
+C: 3 - a: 0 b: 10909 c: 0 d: 21372 score: 0.0
+NP6 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP9 timestamp = 61200=========
+C: 3 - a: 0 b: 10909 c: 60 d: 21312 score: 0.0
+NP9 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP10 timestamp = 61200=========
+C: 3 - a: 0 b: 10909 c: 0 d: 21372 score: 0.0
+NP10 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP11 timestamp = 61200=========
+C: 3 - a: 0 b: 10909 c: 193 d: 21179 score: 0.0
+NP11 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP12 timestamp = 61200=========
+C: 3 - a: 0 b: 10909 c: 381 d: 20991 score: 0.0
+NP12 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP23 timestamp = 61200=========
+C: 3 - a: 0 b: 9732 c: 444 d: 16758 score: 0.0
+NP23 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP24 timestamp = 61200=========
+C: 3 - a: 0 b: 9237 c: 196 d: 15704 score: 0.0
+NP24 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP26 timestamp = 61200=========
+C: 3 - a: 0 b: 7648 c: 583 d: 11520 score: 0.0
+NP26 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP28 timestamp = 61200=========
+C: 3 - a: 0 b: 6510 c: 20 d: 9629 score: 0.0
+NP28 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP29 timestamp = 61200=========
+C: 3 - a: 0 b: 5276 c: 554 d: 6742 score: 0.0
+NP29 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP31 timestamp = 61200=========
+C: 3 - a: 0 b: 3153 c: 20 d: 4012 score: 0.0
+NP31 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP32 timestamp = 61200=========
+C: 3 - a: 0 b: 2394 c: 18 d: 2977 score: 0.0
+NP32 had no class associated with it until the timestamp 61200
+====================================
+======== JI NP6 timestamp = 63000=========
+C: 3 - a: 0 b: 11750 c: 0 d: 22330 score: 0.0
+NP6 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP9 timestamp = 63000=========
+C: 3 - a: 0 b: 11750 c: 61 d: 22269 score: 0.0
+NP9 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP10 timestamp = 63000=========
+C: 3 - a: 0 b: 11750 c: 0 d: 22330 score: 0.0
+NP10 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP11 timestamp = 63000=========
+C: 3 - a: 0 b: 11750 c: 216 d: 22114 score: 0.0
+NP11 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP12 timestamp = 63000=========
+C: 3 - a: 0 b: 11750 c: 413 d: 21917 score: 0.0
+NP12 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP23 timestamp = 63000=========
+C: 3 - a: 0 b: 10573 c: 493 d: 17667 score: 0.0
+NP23 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP24 timestamp = 63000=========
+C: 3 - a: 0 b: 10078 c: 208 d: 16650 score: 0.0
+NP24 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP26 timestamp = 63000=========
+C: 3 - a: 0 b: 8489 c: 677 d: 12384 score: 0.0
+NP26 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP28 timestamp = 63000=========
+C: 3 - a: 0 b: 7351 c: 20 d: 10587 score: 0.0
+NP28 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP29 timestamp = 63000=========
+C: 3 - a: 0 b: 6117 c: 649 d: 7605 score: 0.0
+NP29 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP31 timestamp = 63000=========
+C: 3 - a: 0 b: 3994 c: 31 d: 4959 score: 0.0
+NP31 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP32 timestamp = 63000=========
+C: 3 - a: 0 b: 3235 c: 22 d: 3931 score: 0.0
+NP32 had no class associated with it until the timestamp 63000
+====================================
+======== JI NP6 timestamp = 64800=========
+C: 3 - a: 0 b: 12639 c: 0 d: 23238 score: 0.0
+NP6 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP9 timestamp = 64800=========
+C: 3 - a: 0 b: 12639 c: 65 d: 23173 score: 0.0
+NP9 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP10 timestamp = 64800=========
+C: 3 - a: 0 b: 12639 c: 0 d: 23238 score: 0.0
+NP10 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP11 timestamp = 64800=========
+C: 3 - a: 0 b: 12639 c: 236 d: 23002 score: 0.0
+NP11 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP12 timestamp = 64800=========
+C: 3 - a: 0 b: 12639 c: 438 d: 22800 score: 0.0
+NP12 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP23 timestamp = 64800=========
+C: 3 - a: 0 b: 11462 c: 534 d: 18534 score: 0.0
+NP23 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP24 timestamp = 64800=========
+C: 3 - a: 0 b: 10967 c: 227 d: 17539 score: 0.0
+NP24 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP26 timestamp = 64800=========
+C: 3 - a: 0 b: 9378 c: 752 d: 13217 score: 0.0
+NP26 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP28 timestamp = 64800=========
+C: 3 - a: 0 b: 8240 c: 20 d: 11495 score: 0.0
+NP28 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP29 timestamp = 64800=========
+C: 3 - a: 0 b: 7006 c: 744 d: 8418 score: 0.0
+NP29 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP31 timestamp = 64800=========
+C: 3 - a: 0 b: 4883 c: 42 d: 5856 score: 0.0
+NP31 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP32 timestamp = 64800=========
+C: 3 - a: 0 b: 4124 c: 31 d: 4830 score: 0.0
+NP32 had no class associated with it until the timestamp 64800
+====================================
+======== JI NP6 timestamp = 66600=========
+C: 3 - a: 0 b: 13561 c: 0 d: 24110 score: 0.0
+NP6 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP9 timestamp = 66600=========
+C: 3 - a: 0 b: 13561 c: 73 d: 24037 score: 0.0
+NP9 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP10 timestamp = 66600=========
+C: 3 - a: 0 b: 13561 c: 0 d: 24110 score: 0.0
+NP10 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP11 timestamp = 66600=========
+C: 3 - a: 0 b: 13561 c: 263 d: 23847 score: 0.0
+NP11 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP12 timestamp = 66600=========
+C: 3 - a: 0 b: 13561 c: 474 d: 23636 score: 0.0
+NP12 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP23 timestamp = 66600=========
+C: 3 - a: 0 b: 12384 c: 598 d: 19342 score: 0.0
+NP23 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP24 timestamp = 66600=========
+C: 3 - a: 0 b: 11889 c: 256 d: 18382 score: 0.0
+NP24 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP26 timestamp = 66600=========
+C: 3 - a: 0 b: 10300 c: 842 d: 13999 score: 0.0
+NP26 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP28 timestamp = 66600=========
+C: 3 - a: 0 b: 9162 c: 20 d: 12367 score: 0.0
+NP28 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP29 timestamp = 66600=========
+C: 3 - a: 0 b: 7928 c: 856 d: 9178 score: 0.0
+NP29 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP31 timestamp = 66600=========
+C: 3 - a: 0 b: 5805 c: 48 d: 6722 score: 0.0
+NP31 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP32 timestamp = 66600=========
+C: 3 - a: 0 b: 5046 c: 44 d: 5689 score: 0.0
+NP32 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP34 timestamp = 66600=========
+C: 3 - a: 0 b: 922 c: 15 d: 857 score: 0.0
+NP34 had no class associated with it until the timestamp 66600
+====================================
+======== JI NP6 timestamp = 68400=========
+C: 3 - a: 0 b: 14504 c: 0 d: 24961 score: 0.0
+NP6 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP9 timestamp = 68400=========
+C: 3 - a: 0 b: 14504 c: 77 d: 24884 score: 0.0
+NP9 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP10 timestamp = 68400=========
+C: 3 - a: 0 b: 14504 c: 0 d: 24961 score: 0.0
+NP10 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP11 timestamp = 68400=========
+C: 3 - a: 0 b: 14504 c: 293 d: 24668 score: 0.0
+NP11 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP12 timestamp = 68400=========
+C: 3 - a: 0 b: 14504 c: 513 d: 24448 score: 0.0
+NP12 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP23 timestamp = 68400=========
+C: 3 - a: 0 b: 13327 c: 668 d: 20123 score: 0.0
+NP23 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP24 timestamp = 68400=========
+C: 3 - a: 0 b: 12832 c: 269 d: 19220 score: 0.0
+NP24 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP26 timestamp = 68400=========
+C: 3 - a: 0 b: 11243 c: 941 d: 14751 score: 0.0
+NP26 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP28 timestamp = 68400=========
+C: 3 - a: 0 b: 10105 c: 20 d: 13218 score: 0.0
+NP28 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP29 timestamp = 68400=========
+C: 3 - a: 0 b: 8871 c: 958 d: 9927 score: 0.0
+NP29 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP31 timestamp = 68400=========
+C: 3 - a: 0 b: 6748 c: 54 d: 7567 score: 0.0
+NP31 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP32 timestamp = 68400=========
+C: 3 - a: 0 b: 5989 c: 53 d: 6531 score: 0.0
+NP32 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP34 timestamp = 68400=========
+C: 3 - a: 0 b: 1865 c: 23 d: 1700 score: 0.0
+NP34 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP35 timestamp = 68400=========
+C: 3 - a: 0 b: 943 c: 7 d: 844 score: 0.0
+NP35 had no class associated with it until the timestamp 68400
+====================================
+======== JI NP6 timestamp = 70200=========
+C: 3 - a: 0 b: 15404 c: 0 d: 25844 score: 0.0
+C: 4 - a: 0 b: 87 c: 0 d: 1696 score: 0.0
+NP6 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP9 timestamp = 70200=========
+C: 3 - a: 0 b: 15404 c: 82 d: 25762 score: 0.0
+C: 4 - a: 0 b: 87 c: 5 d: 1691 score: 0.0
+NP9 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP10 timestamp = 70200=========
+C: 3 - a: 0 b: 15404 c: 0 d: 25844 score: 0.0
+C: 4 - a: 0 b: 87 c: 0 d: 1696 score: 0.0
+NP10 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP11 timestamp = 70200=========
+C: 3 - a: 0 b: 15404 c: 322 d: 25522 score: 0.0
+C: 4 - a: 5 b: 82 c: 24 d: 1672 score: 0.045045044
+NP11 --> 4 - t: 70200 - score: 0.045045044273138046
+====================================
+======== JI NP12 timestamp = 70200=========
+C: 3 - a: 0 b: 15404 c: 558 d: 25286 score: 0.0
+C: 4 - a: 1 b: 86 c: 44 d: 1652 score: 0.007633588
+NP12 --> 4 - t: 70200 - score: 0.007633587811142206
+====================================
+======== JI NP23 timestamp = 70200=========
+C: 3 - a: 0 b: 14227 c: 737 d: 20937 score: 0.0
+C: 4 - a: 10 b: 77 c: 59 d: 1637 score: 0.06849315
+NP23 --> 4 - t: 70200 - score: 0.06849315017461777
+====================================
+======== JI NP24 timestamp = 70200=========
+C: 3 - a: 0 b: 13732 c: 292 d: 20080 score: 0.0
+C: 4 - a: 0 b: 87 c: 23 d: 1673 score: 0.0
+NP24 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP26 timestamp = 70200=========
+C: 3 - a: 0 b: 12143 c: 1051 d: 15524 score: 0.0
+C: 4 - a: 40 b: 47 c: 70 d: 1626 score: 0.25477707
+NP26 --> 4 - t: 70200 - score: 0.25477707386016846
+====================================
+======== JI NP28 timestamp = 70200=========
+C: 3 - a: 0 b: 11005 c: 20 d: 14101 score: 0.0
+C: 4 - a: 0 b: 87 c: 0 d: 1696 score: 0.0
+NP28 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP29 timestamp = 70200=========
+C: 3 - a: 0 b: 9771 c: 1082 d: 10686 score: 0.0
+C: 4 - a: 5 b: 82 c: 119 d: 1577 score: 0.024271844
+NP29 --> 4 - t: 70200 - score: 0.02427184395492077
+====================================
+======== JI NP31 timestamp = 70200=========
+C: 3 - a: 0 b: 7648 c: 62 d: 8442 score: 0.0
+C: 4 - a: 0 b: 87 c: 8 d: 1688 score: 0.0
+NP31 had no class associated with it until the timestamp 70200
+====================================
+======== JI NP32 timestamp = 70200=========
+C: 3 - a: 0 b: 6889 c: 69 d: 7398 score: 0.0
+C: 4 - a: 2 b: 85 c: 14 d: 1682 score: 0.01980198
+NP32 --> 4 - t: 70200 - score: 0.019801979884505272
+====================================
+======== JI NP34 timestamp = 70200=========
+C: 3 - a: 0 b: 2765 c: 45 d: 2561 score: 0.0
+C: 4 - a: 4 b: 83 c: 18 d: 1678 score: 0.03809524
+NP34 --> 4 - t: 70200 - score: 0.03809523954987526
+====================================
+======== JI NP35 timestamp = 70200=========
+C: 3 - a: 0 b: 1843 c: 26 d: 1708 score: 0.0
+C: 4 - a: 4 b: 83 c: 15 d: 1681 score: 0.039215688
+NP35 --> 4 - t: 70200 - score: 0.03921568766236305
+====================================
+======== JI NP36 timestamp = 70200=========
+C: 3 - a: 0 b: 900 c: 7 d: 876 score: 0.0
+C: 4 - a: 1 b: 86 c: 6 d: 1690 score: 0.010752688
+NP36 --> 4 - t: 70200 - score: 0.01075268816202879
+====================================
+======== JI NP37 timestamp = 70200=========
+C: 3 - a: 0 b: 900 c: 19 d: 864 score: 0.0
+C: 4 - a: 18 b: 69 c: 1 d: 1695 score: 0.20454545
+NP37 --> 4 - t: 70200 - score: 0.20454545319080353
+====================================
+======== JI NP38 timestamp = 70200=========
+C: 3 - a: 0 b: 900 c: 4 d: 879 score: 0.0
+C: 4 - a: 4 b: 83 c: 0 d: 1696 score: 0.04597701
+NP38 --> 4 - t: 70200 - score: 0.04597701132297516
+====================================
+======== JI NP6 timestamp = 72000=========
+C: 3 - a: 0 b: 16174 c: 0 d: 26866 score: 0.0
+C: 4 - a: 0 b: 819 c: 0 d: 2756 score: 0.0
+NP6 had no class associated with it until the timestamp 72000
+====================================
+======== JI NP9 timestamp = 72000=========
+C: 3 - a: 0 b: 16174 c: 83 d: 26783 score: 0.0
+C: 4 - a: 0 b: 819 c: 6 d: 2750 score: 0.0
+NP9 had no class associated with it until the timestamp 72000
+====================================
+======== JI NP10 timestamp = 72000=========
+C: 3 - a: 0 b: 16174 c: 0 d: 26866 score: 0.0
+C: 4 - a: 0 b: 819 c: 0 d: 2756 score: 0.0
+NP10 had no class associated with it until the timestamp 72000
+====================================
+======== JI NP24 timestamp = 72000=========
+C: 3 - a: 0 b: 14502 c: 307 d: 21087 score: 0.0
+C: 4 - a: 0 b: 819 c: 38 d: 2718 score: 0.0
+NP24 had no class associated with it until the timestamp 72000
+====================================
+======== JI NP28 timestamp = 72000=========
+C: 3 - a: 0 b: 11775 c: 20 d: 15123 score: 0.0
+C: 4 - a: 0 b: 819 c: 0 d: 2756 score: 0.0
+NP28 had no class associated with it until the timestamp 72000
+====================================
+======== JI NP31 timestamp = 72000=========
+C: 3 - a: 0 b: 8418 c: 76 d: 9450 score: 0.0
+C: 4 - a: 14 b: 805 c: 8 d: 2748 score: 0.016928658
+NP31 --> 4 - t: 72000 - score: 0.01692865788936615
+====================================
+======== JI NP39 timestamp = 72000=========
+C: 3 - a: 0 b: 770 c: 14 d: 1008 score: 0.0
+C: 4 - a: 10 b: 722 c: 4 d: 1056 score: 0.013586956
+NP39 --> 4 - t: 72000 - score: 0.013586956076323986
+====================================
+======== JI NP40 timestamp = 72000=========
+C: 3 - a: 0 b: 770 c: 27 d: 995 score: 0.0
+C: 4 - a: 27 b: 705 c: 0 d: 1060 score: 0.036885247
+NP40 --> 4 - t: 72000 - score: 0.03688524663448334
+====================================
+======== JI NP6 timestamp = 73800=========
+C: 3 - a: 0 b: 16925 c: 0 d: 27912 score: 0.0
+C: 4 - a: 0 b: 1606 c: 0 d: 3766 score: 0.0
+NP6 had no class associated with it until the timestamp 73800
+====================================
+======== JI NP9 timestamp = 73800=========
+C: 3 - a: 0 b: 16925 c: 85 d: 27827 score: 0.0
+C: 4 - a: 0 b: 1606 c: 8 d: 3758 score: 0.0
+NP9 had no class associated with it until the timestamp 73800
+====================================
+======== JI NP10 timestamp = 73800=========
+C: 3 - a: 0 b: 16925 c: 0 d: 27912 score: 0.0
+C: 4 - a: 0 b: 1606 c: 0 d: 3766 score: 0.0
+NP10 had no class associated with it until the timestamp 73800
+====================================
+======== JI NP24 timestamp = 73800=========
+C: 3 - a: 0 b: 15253 c: 317 d: 22123 score: 0.0
+C: 4 - a: 0 b: 1606 c: 48 d: 3718 score: 0.0
+NP24 had no class associated with it until the timestamp 73800
+====================================
+======== JI NP28 timestamp = 73800=========
+C: 3 - a: 0 b: 12526 c: 20 d: 16169 score: 0.0
+C: 4 - a: 0 b: 1606 c: 0 d: 3766 score: 0.0
+NP28 had no class associated with it until the timestamp 73800
+====================================
+======== JI NP6 timestamp = 75600=========
+C: 3 - a: 0 b: 17711 c: 0 d: 28920 score: 0.0
+C: 4 - a: 0 b: 2368 c: 0 d: 4798 score: 0.0
+NP6 had no class associated with it until the timestamp 75600
+====================================
+======== JI NP9 timestamp = 75600=========
+C: 3 - a: 0 b: 17711 c: 85 d: 28835 score: 0.0
+C: 4 - a: 0 b: 2368 c: 8 d: 4790 score: 0.0
+NP9 had no class associated with it until the timestamp 75600
+====================================
+======== JI NP10 timestamp = 75600=========
+C: 3 - a: 0 b: 17711 c: 0 d: 28920 score: 0.0
+C: 4 - a: 0 b: 2368 c: 0 d: 4798 score: 0.0
+NP10 had no class associated with it until the timestamp 75600
+====================================
+======== JI NP24 timestamp = 75600=========
+C: 3 - a: 0 b: 16039 c: 329 d: 23119 score: 0.0
+C: 4 - a: 0 b: 2368 c: 60 d: 4738 score: 0.0
+NP24 had no class associated with it until the timestamp 75600
+====================================
+======== JI NP28 timestamp = 75600=========
+C: 3 - a: 0 b: 13312 c: 20 d: 17177 score: 0.0
+C: 4 - a: 0 b: 2368 c: 0 d: 4798 score: 0.0
+NP28 had no class associated with it until the timestamp 75600
+====================================
+======== JI NP6 timestamp = 77400=========
+C: 3 - a: 0 b: 18483 c: 0 d: 29943 score: 0.0
+C: 4 - a: 0 b: 3136 c: 0 d: 5825 score: 0.0
+NP6 had no class associated with it until the timestamp 77400
+====================================
+======== JI NP9 timestamp = 77400=========
+C: 3 - a: 0 b: 18483 c: 85 d: 29858 score: 0.0
+C: 4 - a: 0 b: 3136 c: 8 d: 5817 score: 0.0
+NP9 had no class associated with it until the timestamp 77400
+====================================
+======== JI NP10 timestamp = 77400=========
+C: 3 - a: 0 b: 18483 c: 0 d: 29943 score: 0.0
+C: 4 - a: 0 b: 3136 c: 0 d: 5825 score: 0.0
+NP10 had no class associated with it until the timestamp 77400
+====================================
+======== JI NP24 timestamp = 77400=========
+C: 3 - a: 0 b: 16811 c: 341 d: 24130 score: 0.0
+C: 4 - a: 0 b: 3136 c: 72 d: 5753 score: 0.0
+NP24 had no class associated with it until the timestamp 77400
+====================================
+======== JI NP28 timestamp = 77400=========
+C: 3 - a: 0 b: 14084 c: 20 d: 18200 score: 0.0
+C: 4 - a: 0 b: 3136 c: 0 d: 5825 score: 0.0
+NP28 had no class associated with it until the timestamp 77400
+====================================
+======== JI NP41 timestamp = 77400=========
+C: 3 - a: 0 b: 772 c: 46 d: 977 score: 0.0
+C: 4 - a: 44 b: 724 c: 2 d: 1025 score: 0.057142857
+NP41 --> 4 - t: 77400 - score: 0.05714285746216774
+====================================
+======== JI NP42 timestamp = 77400=========
+C: 3 - a: 1 b: 771 c: 3 d: 1020 score: 0.0012903226
+C: 4 - a: 0 b: 768 c: 4 d: 1023 score: 0.0
+NP42 --> 3 - t: 77400 - score: 0.0012903226306661963
+====================================
+======== JI NP6 timestamp = 79200=========
+C: 3 - a: 0 b: 19272 c: 0 d: 30949 score: 0.0
+C: 4 - a: 0 b: 3944 c: 0 d: 6812 score: 0.0
+NP6 had no class associated with it until the timestamp 79200
+====================================
+======== JI NP9 timestamp = 79200=========
+C: 3 - a: 0 b: 19272 c: 85 d: 30864 score: 0.0
+C: 4 - a: 0 b: 3944 c: 8 d: 6804 score: 0.0
+NP9 had no class associated with it until the timestamp 79200
+====================================
+======== JI NP10 timestamp = 79200=========
+C: 3 - a: 0 b: 19272 c: 0 d: 30949 score: 0.0
+C: 4 - a: 0 b: 3944 c: 0 d: 6812 score: 0.0
+NP10 had no class associated with it until the timestamp 79200
+====================================
+======== JI NP24 timestamp = 79200=========
+C: 3 - a: 0 b: 17600 c: 354 d: 25123 score: 0.0
+C: 4 - a: 0 b: 3944 c: 85 d: 6727 score: 0.0
+NP24 had no class associated with it until the timestamp 79200
+====================================
+======== JI NP28 timestamp = 79200=========
+C: 3 - a: 0 b: 14873 c: 20 d: 19206 score: 0.0
+C: 4 - a: 0 b: 3944 c: 0 d: 6812 score: 0.0
+NP28 had no class associated with it until the timestamp 79200
+====================================
+======== JI NP6 timestamp = 81000=========
+C: 3 - a: 0 b: 20059 c: 0 d: 31956 score: 0.0
+C: 4 - a: 0 b: 4750 c: 0 d: 7800 score: 0.0
+NP6 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP9 timestamp = 81000=========
+C: 3 - a: 0 b: 20059 c: 85 d: 31871 score: 0.0
+C: 4 - a: 0 b: 4750 c: 8 d: 7792 score: 0.0
+NP9 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP10 timestamp = 81000=========
+C: 3 - a: 0 b: 20059 c: 0 d: 31956 score: 0.0
+C: 4 - a: 0 b: 4750 c: 0 d: 7800 score: 0.0
+NP10 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP24 timestamp = 81000=========
+C: 3 - a: 0 b: 18387 c: 373 d: 26111 score: 0.0
+C: 4 - a: 0 b: 4750 c: 104 d: 7696 score: 0.0
+NP24 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP28 timestamp = 81000=========
+C: 3 - a: 0 b: 15660 c: 20 d: 20213 score: 0.0
+C: 4 - a: 0 b: 4750 c: 0 d: 7800 score: 0.0
+NP28 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP43 timestamp = 81000=========
+C: 3 - a: 0 b: 787 c: 4 d: 1003 score: 0.0
+C: 4 - a: 0 b: 806 c: 4 d: 984 score: 0.0
+NP43 had no class associated with it until the timestamp 81000
+====================================
+======== JI NP6 timestamp = 82800=========
+C: 3 - a: 0 b: 20820 c: 0 d: 32993 score: 0.0
+C: 4 - a: 0 b: 5618 c: 0 d: 8730 score: 0.0
+NP6 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP9 timestamp = 82800=========
+C: 3 - a: 0 b: 20820 c: 85 d: 32908 score: 0.0
+C: 4 - a: 0 b: 5618 c: 8 d: 8722 score: 0.0
+NP9 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP10 timestamp = 82800=========
+C: 3 - a: 0 b: 20820 c: 0 d: 32993 score: 0.0
+C: 4 - a: 0 b: 5618 c: 0 d: 8730 score: 0.0
+NP10 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP24 timestamp = 82800=========
+C: 3 - a: 0 b: 19148 c: 383 d: 27138 score: 0.0
+C: 4 - a: 0 b: 5618 c: 114 d: 8616 score: 0.0
+NP24 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP28 timestamp = 82800=========
+C: 3 - a: 0 b: 16421 c: 20 d: 21250 score: 0.0
+C: 4 - a: 0 b: 5618 c: 0 d: 8730 score: 0.0
+NP28 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP43 timestamp = 82800=========
+C: 3 - a: 0 b: 1548 c: 8 d: 2036 score: 0.0
+C: 4 - a: 0 b: 1674 c: 8 d: 1910 score: 0.0
+NP43 had no class associated with it until the timestamp 82800
+====================================
+======== JI NP44 timestamp = 82800=========
+C: 3 - a: 0 b: 761 c: 15 d: 1022 score: 0.0
+C: 4 - a: 15 b: 853 c: 0 d: 930 score: 0.017281106
+NP44 --> 4 - t: 82800 - score: 0.017281105741858482
+====================================
+======== JI NP6 timestamp = 84600=========
+C: 3 - a: 0 b: 21596 c: 0 d: 34012 score: 0.0
+C: 4 - a: 0 b: 6472 c: 0 d: 9671 score: 0.0
+NP6 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP9 timestamp = 84600=========
+C: 3 - a: 0 b: 21596 c: 85 d: 33927 score: 0.0
+C: 4 - a: 0 b: 6472 c: 8 d: 9663 score: 0.0
+NP9 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP10 timestamp = 84600=========
+C: 3 - a: 0 b: 21596 c: 0 d: 34012 score: 0.0
+C: 4 - a: 0 b: 6472 c: 0 d: 9671 score: 0.0
+NP10 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP24 timestamp = 84600=========
+C: 3 - a: 0 b: 19924 c: 399 d: 28141 score: 0.0
+C: 4 - a: 0 b: 6472 c: 130 d: 9541 score: 0.0
+NP24 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP28 timestamp = 84600=========
+C: 3 - a: 0 b: 17197 c: 20 d: 22269 score: 0.0
+C: 4 - a: 0 b: 6472 c: 0 d: 9671 score: 0.0
+NP28 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP43 timestamp = 84600=========
+C: 3 - a: 0 b: 2324 c: 10 d: 3053 score: 0.0
+C: 4 - a: 0 b: 2528 c: 10 d: 2849 score: 0.0
+NP43 had no class associated with it until the timestamp 84600
+====================================
+======== JI NP6 timestamp = 86400=========
+C: 3 - a: 0 b: 22363 c: 0 d: 35039 score: 0.0
+C: 4 - a: 0 b: 7322 c: 0 d: 10615 score: 0.0
+NP6 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP9 timestamp = 86400=========
+C: 3 - a: 0 b: 22363 c: 85 d: 34954 score: 0.0
+C: 4 - a: 0 b: 7322 c: 8 d: 10607 score: 0.0
+NP9 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP10 timestamp = 86400=========
+C: 3 - a: 0 b: 22363 c: 0 d: 35039 score: 0.0
+C: 4 - a: 0 b: 7322 c: 0 d: 10615 score: 0.0
+NP10 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP24 timestamp = 86400=========
+C: 3 - a: 0 b: 20691 c: 410 d: 29157 score: 0.0
+C: 4 - a: 0 b: 7322 c: 141 d: 10474 score: 0.0
+NP24 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP28 timestamp = 86400=========
+C: 3 - a: 0 b: 17964 c: 20 d: 23296 score: 0.0
+C: 4 - a: 0 b: 7322 c: 0 d: 10615 score: 0.0
+NP28 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP43 timestamp = 86400=========
+C: 3 - a: 0 b: 3091 c: 16 d: 4074 score: 0.0
+C: 4 - a: 0 b: 3378 c: 16 d: 3787 score: 0.0
+NP43 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP45 timestamp = 86400=========
+C: 3 - a: 2 b: 765 c: 5 d: 1022 score: 0.0025906735
+C: 4 - a: 0 b: 850 c: 7 d: 937 score: 0.0
+NP45 --> 3 - t: 86400 - score: 0.0025906735099852085
+====================================
+======== JI NP46 timestamp = 86400=========
+C: 3 - a: 0 b: 767 c: 54 d: 973 score: 0.0
+C: 4 - a: 49 b: 801 c: 5 d: 939 score: 0.05730994
+NP46 --> 4 - t: 86400 - score: 0.057309940457344055
+====================================
+======== JI NP47 timestamp = 86400=========
+C: 3 - a: 0 b: 767 c: 6 d: 1021 score: 0.0
+C: 4 - a: 0 b: 850 c: 6 d: 938 score: 0.0
+NP47 had no class associated with it until the timestamp 86400
+====================================
+======== JI NP6 timestamp = 88200=========
+C: 3 - a: 0 b: 23124 c: 0 d: 36077 score: 0.0
+C: 4 - a: 0 b: 8206 c: 0 d: 11530 score: 0.0
+NP6 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP9 timestamp = 88200=========
+C: 3 - a: 0 b: 23124 c: 85 d: 35992 score: 0.0
+C: 4 - a: 0 b: 8206 c: 8 d: 11522 score: 0.0
+NP9 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP10 timestamp = 88200=========
+C: 3 - a: 0 b: 23124 c: 0 d: 36077 score: 0.0
+C: 4 - a: 0 b: 8206 c: 0 d: 11530 score: 0.0
+NP10 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP24 timestamp = 88200=========
+C: 3 - a: 0 b: 21452 c: 424 d: 30181 score: 0.0
+C: 4 - a: 0 b: 8206 c: 155 d: 11375 score: 0.0
+NP24 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP28 timestamp = 88200=========
+C: 3 - a: 0 b: 18725 c: 20 d: 24334 score: 0.0
+C: 4 - a: 0 b: 8206 c: 0 d: 11530 score: 0.0
+NP28 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP43 timestamp = 88200=========
+C: 3 - a: 0 b: 3852 c: 23 d: 5105 score: 0.0
+C: 4 - a: 0 b: 4262 c: 23 d: 4695 score: 0.0
+NP43 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP47 timestamp = 88200=========
+C: 3 - a: 0 b: 1528 c: 6 d: 2059 score: 0.0
+C: 4 - a: 0 b: 1734 c: 6 d: 1853 score: 0.0
+NP47 had no class associated with it until the timestamp 88200
+====================================
+======== JI NP6 timestamp = 90000=========
+C: 3 - a: 0 b: 23880 c: 0 d: 37120 score: 0.0
+C: 4 - a: 0 b: 9067 c: 0 d: 12468 score: 0.0
+NP6 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP9 timestamp = 90000=========
+C: 3 - a: 0 b: 23880 c: 85 d: 37035 score: 0.0
+C: 4 - a: 0 b: 9067 c: 8 d: 12460 score: 0.0
+NP9 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP10 timestamp = 90000=========
+C: 3 - a: 0 b: 23880 c: 0 d: 37120 score: 0.0
+C: 4 - a: 0 b: 9067 c: 0 d: 12468 score: 0.0
+NP10 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP24 timestamp = 90000=========
+C: 3 - a: 0 b: 22208 c: 431 d: 31217 score: 0.0
+C: 4 - a: 0 b: 9067 c: 162 d: 12306 score: 0.0
+NP24 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP28 timestamp = 90000=========
+C: 3 - a: 0 b: 19481 c: 20 d: 25377 score: 0.0
+C: 4 - a: 0 b: 9067 c: 0 d: 12468 score: 0.0
+NP28 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP43 timestamp = 90000=========
+C: 3 - a: 0 b: 4608 c: 31 d: 6140 score: 0.0
+C: 4 - a: 0 b: 5123 c: 31 d: 5625 score: 0.0
+NP43 had no class associated with it until the timestamp 90000
+====================================
+======== JI NP47 timestamp = 90000=========
+C: 3 - a: 0 b: 2284 c: 13 d: 3095 score: 0.0
+C: 4 - a: 0 b: 2595 c: 13 d: 2784 score: 0.0
+NP47 had no class associated with it until the timestamp 90000
+====================================
+Number of examples sent to short-time-memory = 265
+Number of examples removed from short-time-memory = 0
+Number of NPs = 47

@@ -1,0 +1,79 @@
+======== JI NP1 timestamp = 258=========
+C: 5 - a: 0 b: 0 c: 12 d: 30 score: 0.0
+NP1 had no class associated with it until the timestamp 258
+====================================
+======== JI NP2 timestamp = 258=========
+C: 5 - a: 0 b: 0 c: 11 d: 31 score: 0.0
+NP2 had no class associated with it until the timestamp 258
+====================================
+======== JI NP1 timestamp = 301=========
+C: 5 - a: 0 b: 0 c: 13 d: 70 score: 0.0
+NP1 had no class associated with it until the timestamp 301
+====================================
+======== JI NP2 timestamp = 301=========
+C: 5 - a: 0 b: 0 c: 18 d: 65 score: 0.0
+NP2 had no class associated with it until the timestamp 301
+====================================
+======== JI NP1 timestamp = 344=========
+C: 5 - a: 0 b: 0 c: 15 d: 109 score: 0.0
+NP1 had no class associated with it until the timestamp 344
+====================================
+======== JI NP2 timestamp = 344=========
+C: 5 - a: 0 b: 0 c: 28 d: 96 score: 0.0
+NP2 had no class associated with it until the timestamp 344
+====================================
+======== JI NP1 timestamp = 387=========
+C: 5 - a: 0 b: 0 c: 19 d: 148 score: 0.0
+NP1 had no class associated with it until the timestamp 387
+====================================
+======== JI NP2 timestamp = 387=========
+C: 5 - a: 0 b: 0 c: 32 d: 135 score: 0.0
+NP2 had no class associated with it until the timestamp 387
+====================================
+======== JI NP1 timestamp = 430=========
+C: 5 - a: 0 b: 0 c: 24 d: 186 score: 0.0
+NP1 had no class associated with it until the timestamp 430
+====================================
+======== JI NP2 timestamp = 430=========
+C: 5 - a: 0 b: 0 c: 36 d: 174 score: 0.0
+NP2 had no class associated with it until the timestamp 430
+====================================
+======== JI NP1 timestamp = 473=========
+C: 5 - a: 0 b: 0 c: 26 d: 227 score: 0.0
+NP1 had no class associated with it until the timestamp 473
+====================================
+======== JI NP2 timestamp = 473=========
+C: 5 - a: 0 b: 0 c: 37 d: 216 score: 0.0
+NP2 had no class associated with it until the timestamp 473
+====================================
+======== JI NP1 timestamp = 516=========
+C: 5 - a: 0 b: 0 c: 34 d: 262 score: 0.0
+NP1 had no class associated with it until the timestamp 516
+====================================
+======== JI NP2 timestamp = 516=========
+C: 5 - a: 0 b: 0 c: 37 d: 259 score: 0.0
+NP2 had no class associated with it until the timestamp 516
+====================================
+======== JI NP1 timestamp = 559=========
+C: 5 - a: 0 b: 0 c: 37 d: 302 score: 0.0
+NP1 had no class associated with it until the timestamp 559
+====================================
+======== JI NP2 timestamp = 559=========
+C: 5 - a: 0 b: 0 c: 40 d: 299 score: 0.0
+NP2 had no class associated with it until the timestamp 559
+====================================
+======== JI NP1 timestamp = 602=========
+C: 5 - a: 3 b: 38 c: 37 d: 304 score: 0.03846154
+NP1 --> 5 - t: 602 - score: 0.03846153989434242
+====================================
+======== JI NP2 timestamp = 602=========
+C: 5 - a: 0 b: 41 c: 40 d: 301 score: 0.0
+NP2 had no class associated with it until the timestamp 602
+====================================
+======== JI NP2 timestamp = 645=========
+C: 5 - a: 1 b: 83 c: 40 d: 301 score: 0.008064516
+NP2 --> 5 - t: 645 - score: 0.008064515888690948
+====================================
+Number of examples sent to short-time-memory = 80
+Number of examples removed from short-time-memory = 0
+Number of NPs = 2

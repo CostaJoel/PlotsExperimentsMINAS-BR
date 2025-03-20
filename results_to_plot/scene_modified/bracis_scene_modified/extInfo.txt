@@ -1,0 +1,18 @@
+*********Novelty Pattern**********
+Timestamp220
+Thinking extension: C 1 - 11 examplesThinkingNov: Novelty NP2 - 2 micro-clusters
+
+*********Extension**********
+Timestamp220
+Thinking extension: C NP1 - 20 examplesThinking Extension: C 0 - 20 examples
+
+Thinking extension: C NP1 - 20 examplesThinking Extension: C 0 - 20 examples
+Thinking Extension: C 4 - 20 examples
+
+Thinking extension: C NP1 - 20 examplesThinking Extension: C 0 - 20 examples
+Thinking Extension: C 4 - 20 examples
+Thinking NoveltyExtension: N NP1 - 20 examples
+*********Novelty Pattern**********
+Timestamp220
+Thinking extension: C 3 - 7 examplesThinkingNov: Novelty NP3 - 2 micro-clusters
+

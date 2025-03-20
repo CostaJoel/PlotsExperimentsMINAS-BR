@@ -1,0 +1,86 @@
+Known Classes: 76
+Train Classes Distribution: [158, 4001, 515, 297, 697, 486, 19, 606, 1945, 270, 43, 289, 293, 6337, 31, 243, 137, 26, 187, 2, 146, 111, 304, 12, 1233, 128, 35, 120, 282, 38, 2120, 57, 71, 475, 1357, 168, 0, 374, 99, 417, 405, 1229, 5008, 501, 488, 58, 23, 45, 34, 1121, 1019, 559, 48, 239, 107, 6997, 560, 3, 212, 121, 341, 358, 988, 18, 9, 49, 223, 61, 186, 327, 91, 48, 507, 278, 506, 3554, 45, 278, 6, 1430, 12]
+Test Classes Distribution: [158, 4001, 515, 297, 697, 486, 19, 606, 1945, 270, 43, 289, 293, 6337, 31, 243, 137, 26, 187, 2, 146, 111, 304, 12, 1233, 128, 35, 120, 282, 38, 2120, 57, 71, 475, 1357, 168, 0, 374, 99, 417, 405, 1229, 5008, 501, 488, 58, 23, 45, 34, 1121, 1019, 559, 48, 239, 107, 6997, 560, 3, 212, 121, 341, 358, 988, 18, 9, 49, 223, 61, 186, 327, 91, 48, 507, 278, 506, 3554, 45, 278, 6, 1430, 12]
+Train label cardinality: 1.9369807
+Windows label cardinality: [1.3910983, 1.7741603, 1.7049248, 1.3630744, 1.6946219, 1.7137853, 1.9192252, 1.8763652, 2.2565424, 1.9462188, 2.2971358, 1.5376056, 2.0593448, 2.0622296, 1.5481145, 1.9035648, 1.865032, 1.72347, 1.7488152, 1.9849578, 2.3198023, 1.9672368, 1.6354833, 1.5930352, 1.783433, 1.9682671, 2.1493921, 1.8736864, 1.8745106, 1.8860499, 2.0624356, 1.7181125, 1.6960642, 1.6189985, 1.5421389, 1.8365959, 1.9800124, 2.010715, 2.208943, 1.8444262, 2.0550175, 1.7556151, 1.9163404, 1.6107563, 2.0276117, 2.2816815, 1.5668658, 1.8164022, 1.8718319, 2.205852]
+Number of examples: 269648
+Number of attributes: 128
+Classes for the training phase (offline): [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 10, 55, 11, 56, 12, 13, 14, 58, 59, 15, 16, 17, 18, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 60, 61, 62, 63, 20, 65, 21, 22, 66, 67, 23, 24, 68, 25, 69, 26, 27, 28, 29, 70, 71, 72, 73, 30, 74, 75, 31, 76, 32, 33, 77, 34, 79, 35, 37, 38, 39, 80, 40, 41, 42, 43]
+Quantidade de classes: 76
+Class: 44 size: 81 n:488
+Class: 45 size: 10 n:58
+Class: 46 size: 5 n:23
+Class: 47 size: 6 n:45
+Class: 48 size: 6 n:34
+Class: 49 size: 181 n:1121
+Class: 50 size: 153 n:1019
+Class: 51 size: 100 n:559
+Class: 52 size: 7 n:48
+Class: 53 size: 42 n:239
+Class: 54 size: 20 n:107
+Class: 10 size: 7 n:43
+Class: 55 size: 1018 n:6997
+Class: 11 size: 49 n:289
+Class: 56 size: 96 n:560
+Class: 12 size: 47 n:293
+Class: 13 size: 921 n:6337
+Class: 14 size: 6 n:31
+Class: 58 size: 37 n:212
+Class: 59 size: 23 n:121
+Class: 15 size: 35 n:243
+Class: 16 size: 26 n:137
+Class: 17 size: 6 n:26
+Class: 18 size: 31 n:187
+Class: 0 size: 22 n:158
+Class: 1 size: 607 n:4001
+Class: 2 size: 90 n:515
+Class: 3 size: 50 n:297
+Class: 4 size: 113 n:697
+Class: 5 size: 81 n:486
+Class: 6 size: 4 n:19
+Class: 7 size: 99 n:606
+Class: 8 size: 305 n:1945
+Class: 9 size: 36 n:270
+Class: 60 size: 53 n:341
+Class: 61 size: 63 n:358
+Class: 62 size: 155 n:988
+Class: 63 size: 3 n:18
+Class: 20 size: 28 n:146
+Class: 65 size: 9 n:49
+Class: 21 size: 19 n:111
+Class: 22 size: 49 n:304
+Class: 66 size: 38 n:223
+Class: 67 size: 11 n:61
+Class: 23 size: 2 n:12
+Class: 24 size: 179 n:1233
+Class: 68 size: 33 n:186
+Class: 25 size: 23 n:128
+Class: 69 size: 55 n:327
+Class: 26 size: 7 n:35
+Class: 27 size: 17 n:120
+Class: 28 size: 49 n:282
+Class: 29 size: 9 n:38
+Class: 70 size: 15 n:91
+Class: 71 size: 9 n:48
+Class: 72 size: 82 n:507
+Class: 73 size: 47 n:278
+Class: 30 size: 331 n:2120
+Class: 74 size: 89 n:506
+Class: 75 size: 564 n:3554
+Class: 31 size: 9 n:57
+Class: 76 size: 10 n:45
+Class: 32 size: 10 n:71
+Class: 33 size: 73 n:475
+Class: 77 size: 46 n:278
+Class: 34 size: 233 n:1357
+Class: 79 size: 248 n:1430
+Class: 35 size: 28 n:168
+Class: 37 size: 51 n:374
+Class: 38 size: 20 n:99
+Class: 39 size: 67 n:417
+Class: 80 size: 3 n:12
+Class: 40 size: 69 n:405
+Class: 41 size: 188 n:1229
+Class: 42 size: 776 n:5008
+Class: 43 size: 74 n:501
+Label Cardinality: 2.0
